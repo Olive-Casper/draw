@@ -1,0 +1,22 @@
+body
+{
+    background-color:lightblue;
+}
+
+#score
+{
+    font-size: 15px;
+    margin: 10px;
+}
+
+#time
+{
+   float: right;
+   font-size: 15px;
+   margin: 10px
+}
+
+#sketch_name
+{
+    color:midnightblue;
+}
